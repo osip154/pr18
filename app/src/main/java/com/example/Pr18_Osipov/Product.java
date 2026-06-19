@@ -1,4 +1,4 @@
-package com.example.pr18;
+package com.example.Pr18_Osipov;
 
 public class Product {
     String name;
