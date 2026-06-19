@@ -1,4 +1,4 @@
-package com.example.pr18;
+package com.example.Pr18_Osipov;
 
 import android.content.Intent;
 import android.os.Bundle;
